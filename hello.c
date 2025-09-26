@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("hello world");
+    printf("\nHello world!");
     return 0;
     //Fixed tab spacing
 }
